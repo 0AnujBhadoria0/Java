@@ -1,2 +1,4 @@
-# Java
-learning coding java
+  # JavaScript
+Learning JavaScript 
+   From Basics
+       ✌︎㋡
